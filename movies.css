@@ -4,13 +4,13 @@ table {
   text-align: center; border: 1px;
 }
 h1{
-  font-family: Verdana, Geneva, Tahoma, sans-serif; padding: 8px; background-color: #a3b3a3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; padding: 8px; background-color: #566656;
   box-sizing: border-box;padding-left: 10%;
   
 }
 th{
      font-size: 30;font-family: Verdana, Geneva, Tahoma, sans-serif;
-     background-color: #a3b3a3;
+     background-color: #566656;
 }
 tr{
   font-size: 20; font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -37,4 +37,12 @@ table td:nth-child(2) {
      background-color: #f4f4f4;
      color: blue;
 }
-
+table td:nth-child(1){
+  background-color: #ffffff
+}
+table td:nth-child(3){
+  background-color: #ffffff
+}
+table td:nth-child(4){
+  background-color: #ffffff
+}
